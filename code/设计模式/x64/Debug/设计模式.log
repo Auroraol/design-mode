@@ -1,0 +1,20 @@
+﻿  代理模式.cpp
+  单例设计模式.cpp
+  原型模式.cpp
+  工厂方法.cpp
+  建造者模式.cpp
+  抽象工厂模式.cpp
+  简单工厂.cpp
+  装饰模式.cpp
+  正在生成代码...
+C:\Users\16658\Desktop\设计模式\code\设计模式\简单工厂.cpp(77): warning C4715: “OperatorFatory::createOperator”: 不是所有的控件路径都返回值
+单例设计模式.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+原型模式.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+工厂方法.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+建造者模式.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+抽象工厂模式.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+简单工厂.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+装饰模式.obj : error LNK2005: main 已经在 代理模式.obj 中定义
+工厂方法.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl AbstractProduct::~AbstractProduct(void)" (??1AbstractProduct@@UEAA@XZ)，函数 "public: virtual __cdecl PlaneProduct::~PlaneProduct(void)" (??1PlaneProduct@@UEAA@XZ) 中引用了该符号
+工厂方法.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl AbstractFavtor::~AbstractFavtor(void)" (??1AbstractFavtor@@UEAA@XZ)，函数 "public: virtual __cdecl PlaneFactory::~PlaneFactory(void)" (??1PlaneFactory@@UEAA@XZ) 中引用了该符号
+C:\Users\16658\Desktop\设计模式\code\设计模式\x64\Debug\设计模式.exe : fatal error LNK1120: 2 个无法解析的外部命令
